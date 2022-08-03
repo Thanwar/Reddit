@@ -1,0 +1,53 @@
+#nav
+{
+    background-color: rgba(26, 26, 26, 0.753);
+    display: flex;
+    justify-content: space-around;
+}
+#navtext
+{
+    color: white;
+}
+
+h3
+{
+    margin: 20px;
+    color: white;
+}
+
+#navimg
+{
+    padding: 20px;
+}
+
+#trendimg
+{
+    margin-left:60px;
+}
+
+#trendtxt
+{
+    margin-left:60px;
+}
+
+#navsearch
+{
+    padding-left: 20px;
+    margin: 20px;
+    height: 20px;
+    width: 500px;
+    background-color: rgb(54, 53, 53);
+    color: rgb(141, 138, 138);
+}
+
+.navbtn
+{
+    margin: 20px;
+    height: 30px;
+    width: 90px;
+    border-radius: 20px;
+}
+
+body{
+    background-color: black;
+}
