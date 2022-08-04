@@ -13,7 +13,7 @@ function App() {
     <div>
         <div id="nav">
           <img id="navimg" src={Logo} height="40"/>
-          <h2 id="navtext">Reddit</h2>
+          <h2 id="navtext">Redddit</h2>
           <input id="navsearch" type="text" placeholder="Search" />
           <button className="navbtn">Log In</button>
           <button className="navbtn">Sign UP</button>
